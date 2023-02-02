@@ -1,0 +1,20 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import pandas as pd
+
+    penguins_dict = {'species': {0: 'Gentoo', 1: 'Gentoo', 2: 'Adelie', 3: 'Chinstrap', 4: 'Adelie', 5: 'Adelie'}, 'body_mass_g': {0: 5550.0, 1: 5850.0, 2: 3975.0, 3: 4050.0, 4: 3200.0, 5: 4700.0}, 'sex': {0: 'MALE', 1: 'MALE', 2: 'MALE', 3: 'MALE', 4: 'FEMALE', 5: 'MALE'}}
+
+    penguins_df = pd.DataFrame(penguins_dict)
+
+    # your code here
+    print(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12576#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 29 Jan 2023 13:08:41 UTC"
+record: -1

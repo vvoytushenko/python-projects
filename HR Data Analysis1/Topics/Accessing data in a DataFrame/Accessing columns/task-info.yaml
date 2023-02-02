@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: "<code>df.axes[0]</code>"
+- text: "<code>df.axes[1]</code>"
+- text: <code>columns.df</code>
+- text: <code>df.columns</code>
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12999#comment
+status: Solved
+record: -1
+local_check: false

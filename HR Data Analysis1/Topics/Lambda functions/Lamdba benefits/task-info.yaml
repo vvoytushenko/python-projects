@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: You don't have to explicitly have a <code>return</code> statement
+- text: They are not restricted to a single expression
+- text: They can be embedded inside a larger expression
+- text: They run faster
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15154#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 29 Jan 2023 09:49:18 UTC"
+record: -1
+selected_options:
+- 0
+- 2
+local_check: false

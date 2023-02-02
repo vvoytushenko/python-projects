@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: <code>df.reset_index(inplace=True)</code>
+- text: "<code>df.index = ['row', 'row2', 'row3', 'row4', 'row5']</code>"
+- text: "<code>df.set_index(['row', 'row2', 'row3', 'row4', 'row5'], inplace=True)</code>"
+- text: "<code>df.rename(index=[0: 'row', 1: 'row2', 2: 'row3', 3: 'row4', 4: 'row5'])</code>"
+- text: "<code>df.rename(index={0: 'row', 1: 'row2', 2: 'row3', 3: 'row4', 4: 'row5'})</code>"
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13001#comment
+status: Solved
+record: -1
+local_check: false

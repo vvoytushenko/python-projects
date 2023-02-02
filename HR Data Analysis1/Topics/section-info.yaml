@@ -1,0 +1,13 @@
+content:
+- Accessing data in a DataFrame
+- Lambda functions
+- Sorting a list
+- Conditional selection
+- Sorting Data in Pandas
+- Modifying a DataFrame
+- Combining Data in Pandas
+- .loc   .iloc
+- Searching within a pandas DataFrame
+- Summarizing numeric columns
+- Grouping and aggregating data in pandas
+- Reshaping and Pivot Tables

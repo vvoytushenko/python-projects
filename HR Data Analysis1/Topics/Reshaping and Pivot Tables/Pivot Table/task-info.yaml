@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: It doesn't support using multiple values for the index and columns parameter
+- text: It reshapes data from long to wide format
+- text: It reshapes data from wide to long format
+- text: It aggregates data by chosen parameter
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12841#comment
+status: Unchecked
+record: -1
+local_check: false
