@@ -1,24 +1,24 @@
 hyperskill_project:
-  id: 268
-  ide_files: https://stepik.org/media/attachments/lesson/755609/additional_files.json
+  id: 152
+  ide_files: https://stepik.org/media/attachments/lesson/467509/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Sun, 29 Jan 2023 18:36:17 UTC"
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
 stages:
-- id: 1358
-  step: 20893
+- id: 801
+  step: 12046
   is_completed: true
-- id: 1359
-  step: 20894
+- id: 802
+  step: 12047
   is_completed: true
-- id: 1360
-  step: 20895
+- id: 803
+  step: 12048
   is_completed: true
-- id: 1361
-  step: 20896
+- id: 804
+  step: 12049
   is_completed: true
-- id: 1362
-  step: 20897
+- id: 805
+  step: 12050
   is_completed: true
 topics:
   0:
@@ -96,8 +96,6 @@ topics:
     theory_id: 10421
   - title: DataFrame
     theory_id: 10933
-  - title: Accessing data in a DataFrame
-    theory_id: 12998
   - title: Basic data types
     theory_id: 5852
   - title: Variables
@@ -133,28 +131,13 @@ topics:
   - title: Dictionary
     theory_id: 6481
   1:
-  - title: Iterators
-    theory_id: 8479
-  - title: Ordering and total order
-    theory_id: 9253
-  - title: Conditional selection
-    theory_id: 13301
-  - title: Sorting Data in Pandas
-    theory_id: 15181
+  - title: Accessing data in a DataFrame
+    theory_id: 12998
   - title: Modifying a DataFrame
     theory_id: 13007
   - title: Combining Data in Pandas
     theory_id: 12349
-  - title: Lambda functions
-    theory_id: 7092
-  - title: Sorting a list
-    theory_id: 10059
   2:
-  - title: .loc & .iloc
-    theory_id: 13343
-  - title: Searching within a pandas DataFrame
-    theory_id: 15868
-  3:
   - title: Basics of sets
     theory_id: 8220
   - title: Basics of functions
@@ -171,12 +154,53 @@ topics:
     theory_id: 11274
   - title: "Mean, median, and mode"
     theory_id: 11282
-  - title: Standard deviation
-    theory_id: 11435
+  - title: .loc & .iloc
+    theory_id: 13343
   - title: Summarizing numeric columns
     theory_id: 13359
   - title: Grouping and aggregating data in pandas
     theory_id: 12585
-  4:
+  - title: Working with missing values
+    theory_id: 14686
+  - title: Handling missing values
+    theory_id: 17154
+  3:
+  - title: Summarizing categorical columns
+    theory_id: 13351
   - title: Reshaping and Pivot Tables
     theory_id: 12611
+  4:
+  - title: Cartesian coordinates
+    theory_id: 13114
+  - title: Properties of functions
+    theory_id: 20683
+  - title: Introduction to polynomials
+    theory_id: 11059
+  - title: Standard deviation
+    theory_id: 11435
+  - title: Interpolation
+    theory_id: 11610
+  - title: Quartiles
+    theory_id: 18910
+  - title: Properties of numerical functions
+    theory_id: 20704
+  - title: "Vectors, matrices, scalars"
+    theory_id: 16969
+  - title: Introduction to matrices
+    theory_id: 7112
+  - title: Intro to NumPy
+    theory_id: 9672
+  - title: Linear functions
+    theory_id: 18811
+  - title: Introduction to matplotlib
+    theory_id: 16788
+  - title: Matplotlib histogram
+    theory_id: 17234
+  - title: Matplotlib pie chart
+    theory_id: 16807
+  - title: Matplotlib box plot
+    theory_id: 16818
+  - title: Matplotlib violin plot
+    theory_id: 17258
+  - title: Visualization in pandas
+    theory_id: 13139

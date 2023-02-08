@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import numpy as np
+
+    def collect_info(array):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9678#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 06 Feb 2023 16:21:14 UTC"
+record: -1
