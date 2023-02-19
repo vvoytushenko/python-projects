@@ -4,9 +4,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="891a41ff-9693-4a26-97d4-a412c995b416" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+    <list default="true" id="891a41ff-9693-4a26-97d4-a412c995b416" name="Changes" comment="nba data preprocessing project commit">
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the birthplaces/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the birthplaces/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the birthplaces/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the dates/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the dates/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the dates/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Data/Nobel_laureates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Load the data/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Load the data/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Load the data/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a bar plot/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a bar plot/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a bar plot/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a box plot/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a box plot/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a box plot/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a pie chart/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a pie chart/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a pie chart/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/task/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/task/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/task/test/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Intra-group light component and galaxy morphology/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Intra-group light component and galaxy morphology/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Isolated galaxies and galaxies in groups/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Isolated galaxies and galaxies in groups/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Median projected separation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Median projected separation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/One-way analysis of variance/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/One-way analysis of variance/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Prepare the data/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Array or not array/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Array or not array/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Array or not array/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Array or not array/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Importing the subpackages/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Importing the subpackages/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Importing the subpackages/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Importing the subpackages/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Integrate all the variables/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Integrate all the variables/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Integrate all the variables/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Integrate all the variables/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Schur decomposition/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Schur decomposition/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Schur decomposition/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Schur decomposition/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Theory/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/What submodule to use/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/What submodule to use/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/What submodule to use/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/What submodule to use/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +79,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="14819425-cddf-4085-836c-63c42f423ed3" />
+        <option name="url" value="https://github.com/vvoytushenko/python-projects" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -24,13 +100,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.Yaml.Migrate": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,6 +116,29 @@
       <option name="presentableId" value="Default" />
       <updated>1675840270571</updated>
     </task>
+    <task id="LOCAL-00001" summary="nba data preprocessing project commit">
+      <created>1676133412216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676133412216</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nba data preprocessing project commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="nba data preprocessing project commit" />
   </component>
 </project>

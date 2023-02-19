@@ -1,0 +1,13 @@
+<h2>Schur decomposition</h2>
+<p>As you have learned from the topic, SciPy has many advanced linear algebra functions. Let's look at another problem that takes advantage of those cool features.</p>
+
+<p>Your task is to find Schur decomposition of the matrix  <span class="math-tex">\(A = Z T Z^H\)</span></p>
+
+<p><span class="math-tex">\[A = \begin{pmatrix} 0 &amp; 2 &amp; 2\\ 2 &amp; 1 &amp; 2 \\ 1 &amp; 0 &amp; 1 \end{pmatrix}\]</span>You can find the needed function in <a target="_blank" target="_blank" target="_blank" target="_blank" href="https://docs.scipy.org/doc/scipy/reference/linalg.html" rel="noopener noreferrer nofollow">scipy.linalg</a>. After you've calculated the decomposition, find the traces of matrices <span class="math-tex">\(T\)</span> and <span class="math-tex">\(Z\)</span>, and print their sum. You can use <code class="java">numpy.trace</code> or <code class="java">scipy.trace</code> to get the traces of matrices.</p>
+
+<p><button
+        class="btn-sm btn-outline-secondary"
+        onclick="getElementById('hint-878').style.display='inline'">
+        Hint
+      </button>
+      <div id="hint-878" style="display:none;">Don't forget to import <code class="java">scipy.linalg</code>! </div></p><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 15 seconds</font><br><br>
