@@ -19,8 +19,8 @@ files:
             with open('../Data/Nobel_laureates.json', 'wb') as f:
                 f.write(r.content)
             print('Loaded.')
-        df = pd.read_json('../Data/Nobel_laureates.json')
 
+        df = pd.read_json('../Data/Nobel_laureates.json')
         # Check for duplicates
         print(df.duplicated().any())
 
@@ -89,6 +89,9 @@ files:
     if __name__ == '__main__':
         BirthplaceTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/23839#comment
-status: Unchecked
-record: -1
+feedback_link: https://hyperskill.org/projects/302/stages/1699/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 23 Feb 2023 12:24:22 UTC"
+record: 2

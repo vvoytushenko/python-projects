@@ -1,109 +1,30 @@
-import ast
-from hstest import *
-from hstest.stage_test import List
-
-answer_dup = False
-answer_index = {
-    'country': {
-        0: 'Argentina',
-        1: '',
-        2: '',
-        3: 'Belgium',
-        4: 'Belgium',
-        5: 'Belgium',
-        6: 'Belgium',
-        7: 'Belgium',
-        8: 'Belgium',
-        9: 'Belgium',
-        10: 'Belgium',
-        11: 'Belgium',
-        12: 'Belgium',
-        13: '',
-        14: '',
-        15: '', 16: 'Denmark', 17: 'Denmark', 18: 'Denmark', 19: 'Denmark'},
-    'name': {0: 'César Milstein', 1: 'Ivo Andric *', 2: 'Vladimir Prelog *', 3: 'Auguste Beernaert',
-             4: 'Maurice Maeterlinck', 5: 'Henri La Fontaine', 6: 'Jules Bordet', 7: 'Corneille Heymans',
-             8: 'Georges Pire', 9: 'Albert Claude', 10: 'Christian de Duve', 11: 'Ilya Prigogine',
-             12: 'François Englert', 13: 'Simon Kuznets *', 14: 'Menachem Begin *', 15: 'Shimon Peres *',
-             16: 'Karl Adolph Gjellerup', 17: 'August Krogh', 18: 'Niels Bohr',
-             19: 'Johannes Andreas Grib Fibiger'}}
+from hstest import PlottingTest, WrongAnswer, dynamic_test, TestedProgram, CheckResult
 
 
-class LoadTest(StageTest):
+class Box(PlottingTest):
+    # hs-test-python is not able to test box plots properly yet
+    # so for now this test program checks whether user showed one plot and whether its type == "box"
 
-    def generate(self) -> List[TestCase]:
-        return [TestCase(time_limit=1000000)]
+    @dynamic_test
+    def test(self):
+        pr = TestedProgram()
+        pr.start()
 
-    def check(self, reply: str, attach):
+        all_figures = self.all_figures()
 
-        reply = reply.strip()
+        if len(all_figures) == 0:
+            raise WrongAnswer("Looks like you didn't present any plots")
+        if len(all_figures) != 1:
+            raise WrongAnswer(f"Expected one box plot of age distribution across Nobel prize categories.\n"
+                              f"Found {len(all_figures)} plots.")
 
-        if len(reply) == 0:
-            return CheckResult.wrong("No output was printed")
-
-        if reply.count('{') < 1 or reply.count('}') < 1:
-            return CheckResult.wrong('Your answer should contain Python dictionary')
-
-        if len(reply.split('\n')) != 2:
-            return CheckResult.wrong('The number of answers supplied does not equal two.\n'
-                                     'Please follow the output format from the stage description.')
-
-        reply_dup = reply.split('\n')[0]
-        reply_index = reply.split('\n')[1]
-        index_from = reply_index.find('{')
-        index_to = reply_index.rfind('}')
-        dict_index = reply_index[index_from: index_to + 1]
-
-        try:
-            reply_dup = ast.literal_eval(reply_dup)
-            user_dict = ast.literal_eval(dict_index)
-        except Exception as e:
-            return CheckResult.wrong(f"Couldn't parse dictionary from your answer.\n"
-                                     f"Make sure you use only the following Python structures in the output: string, "
-                                     f"int, float, bool, list, dictionary.")
-
-        if not isinstance(reply_dup, bool):
-            return CheckResult.wrong('Print the result of objective # 3 as a string')
-
-        if reply_dup != answer_dup:
-            return CheckResult.wrong(f"Result of objective # 3 is not correct")
-
-        if not isinstance(user_dict, dict):
-            return CheckResult.wrong('Print the second part of the answer as a Python dictionary')
-
-        if len(answer_index.keys()) != len(user_dict.keys()):
-            return CheckResult.wrong(
-                f'Output should contain {len(answer_index.keys())} dict elements, found {len(user_dict.keys())}')
-
-        for key in answer_index.keys():
-            if key not in user_dict.keys():
-                return CheckResult.wrong(f'Output dictionary should contain {key} as a key.')
-
-        for key in answer_index.keys():
-            if len(answer_index[key].keys()) != len(user_dict[key].keys()):
-                return CheckResult.wrong(
-                    f'Output in column {key} should contain {len(answer_index[key].keys())} dict elements, '
-                    f'found {len(user_dict[key].keys())}')
-
-        for key in answer_index.keys():
-            for key_inner in answer_index[key].keys():
-                if key not in user_dict.keys():
-                    return CheckResult.wrong(f'Output in column {key} should contain {key_inner} as a key')
-
-        for key in user_dict.keys():
-            curr_user_dict = user_dict[key]
-            curr_answer_dict = answer_index[key]
-            for key_curr in curr_user_dict.keys():
-                if key_curr not in curr_answer_dict.keys():
-                    return CheckResult.wrong(f'Output should not contain {key_curr} as key for {key} column')
-                curr_user_val = curr_user_dict[key_curr]
-                curr_answer_val = curr_answer_dict[key_curr]
-                if curr_user_val != curr_answer_val:
-                    return CheckResult.wrong(
-                        f'Wrong value of column containing {key} at index {key_curr} ')
+        graph_type = all_figures[0].type
+        if graph_type != "box":
+            raise WrongAnswer(f"The type of the plot is wrong.\n"
+                              f"The box plot is expected, found {graph_type} plot.")
 
         return CheckResult.correct()
 
 
 if __name__ == '__main__':
-    LoadTest().run_tests()
+    Box().run_tests()

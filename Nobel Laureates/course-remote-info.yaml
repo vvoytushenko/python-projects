@@ -4,26 +4,26 @@ hyperskill_project:
   is_template_based: false
   use_ide: true
   environment: unittest
-update_date: "Sun, 19 Feb 2023 05:30:33 UTC"
+update_date: "Sun, 19 Feb 2023 17:36:13 UTC"
 stages:
 - id: 1698
   step: 23838
-  is_completed: false
+  is_completed: true
 - id: 1699
   step: 23839
-  is_completed: false
+  is_completed: true
 - id: 1700
   step: 23840
-  is_completed: false
+  is_completed: true
 - id: 1701
   step: 23841
-  is_completed: false
+  is_completed: true
 - id: 1702
   step: 23842
-  is_completed: false
+  is_completed: true
 - id: 1703
   step: 23843
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: IDE

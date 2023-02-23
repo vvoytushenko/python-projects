@@ -139,9 +139,9 @@ files:
 
         # write your code here
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/23838#comment
-status: Failed
+feedback_link: https://hyperskill.org/projects/302/stages/1698/implement#comment
+status: Solved
 feedback:
-  message: Incorrect
-  time: "Sat, 18 Feb 2023 20:15:54 UTC"
-record: -1
+  message: Congratulations!
+  time: "Sun, 19 Feb 2023 08:10:08 UTC"
+record: 1

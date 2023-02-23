@@ -19,8 +19,8 @@ files:
             with open('../Data/Nobel_laureates.json', 'wb') as f:
                 f.write(r.content)
             print('Loaded.')
-        df = pd.read_json('../Data/Nobel_laureates.json')
 
+        df = pd.read_json('../Data/Nobel_laureates.json')
         # Check for duplicates
         print(df.duplicated().any())
 
@@ -67,6 +67,10 @@ files:
     if __name__ == '__main__':
         Box().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/23843#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/projects/302/stages/1703/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: "Thu, 23 Feb 2023 16:32:55 UTC"
 record: -1
