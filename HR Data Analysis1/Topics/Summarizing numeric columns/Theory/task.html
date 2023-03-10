@@ -1,5 +1,5 @@
 <h2>Summarizing numeric columns</h2>
-<html><body><p><code class="language-python">pandas</code> is famous for its analytical tools. When we need to compare datasets or evaluate the data that is grouped by categories, we need to refer to summary statistics. Entry-by-entry data comparison is impractical. Moreover, an analyst should be able to describe myriads of small data discrepancies in more general terms. And central tendency measures can be useful for this purpose.</p>
+<p><code class="language-python">pandas</code> is famous for its analytical tools. When we need to compare datasets or evaluate the data that is grouped by categories, we need to refer to summary statistics. Entry-by-entry data comparison is impractical. Moreover, an analyst should be able to describe myriads of small data discrepancies in more general terms. And central tendency measures can be useful for this purpose.</p>
 <h5 id="the-dataset">The dataset</h5>
 <p>At first, we need to import <code class="language-python">pandas</code>. In this topic, we are going to use the Palmer penguins dataset. You can import it with one line from GitHub (requires internet connection):</p>
 <pre><code class="language-python">import pandas as pd
@@ -7,27 +7,27 @@ df = pd.read_csv('https://raw.githubusercontent.com/mwaskom/seaborn-data/master/
 <p>Column names are self-explanatory:</p>
 <pre><code class="language-python">df.head(3)</code></pre>
 <p>Output:<br/>
-<img alt="" src="https://ucarecdn.com/ebcb00a8-45d8-47ae-95fc-41677a60f1fe/"/></p>
+<img alt="" height="107" src="https://ucarecdn.com/ebcb00a8-45d8-47ae-95fc-41677a60f1fe/" width="624"/></p>
 <p style="text-align: center;"><img alt="" height="182" name="logo.png" src="https://ucarecdn.com/843f2384-760e-4502-b1ce-8573ea6e5b56/" width="158"/></p>
 <h5 id="central-tendency-measures">Central tendency measures</h5>
 <p>Comparing the datasets often means comparing the average. And by "average" they mean... <strong>the mean</strong>. The arithmetic mean, to be precise. Let's calculate the mean value for the flipper length:</p>
 <pre><code class="language-python">df.flipper_length_mm.mean()</code></pre>
 <p>Output:<br/>
-<img alt="" src="https://ucarecdn.com/fd6c46a3-e51b-4e14-bc83-76b25a268c7c/"/></p>
+<img alt="" height="20" src="https://ucarecdn.com/fd6c46a3-e51b-4e14-bc83-76b25a268c7c/" width="152"/></p>
 <p>As you probably know, the mean is not a suitable measure for distributions that are far from normal (roughly speaking, a normal distribution is a symmetrical bell-shaped curve with the mean in the center). The median can be more useful for such cases. Let's find it for the same distribution:</p>
 <pre><code class="language-python">df.flipper_length_mm.median()</code></pre>
 <p>Output:<br/>
-<img alt="" src="https://ucarecdn.com/81f1dd3f-97ee-4c5c-ab77-f72f24b40086/"/></p>
+<img alt="" height="22" src="https://ucarecdn.com/81f1dd3f-97ee-4c5c-ab77-f72f24b40086/" width="59"/></p>
 <p>The flipper length distribution is close to normal in our case (Gaussian). </p>
 <p>There can be situations when you need to find the row mean or median. Suppose we came up with the idea to measure penguins with only one value. It can be something like "penguin size", calculated as the mean of all available measurements of a penguin. We will do it by setting the <code class="language-python">axis</code> argument to columns. Take one experimental penguin (first row) for this experimental measure:</p>
 <pre><code class="language-python">df.head(1).mean(axis='columns')</code></pre>
 <p>Output:<br/>
-<img alt="" src="https://ucarecdn.com/39a955ae-ba51-492a-9988-d3094eb32203/"/></p>
+<img alt="" height="38" src="https://ucarecdn.com/39a955ae-ba51-492a-9988-d3094eb32203/" width="129"/></p>
 <p>As you can see, <code class="language-python">pandas</code> uses only numeric columns for that by default, so you don't need to choose them manually.</p>
 <p>As for the <strong>distribution mode</strong>, it makes more sense to find it for categorical features. Let's find the mode for the sex of penguins:</p>
 <pre><code class="language-python">df.sex.mode()</code></pre>
 <p>Output:<br/>
-<img alt="" src="https://ucarecdn.com/b8e2d2b6-4f74-4566-af16-55e34e899e43/"/></p>
+<img alt="" height="42" src="https://ucarecdn.com/b8e2d2b6-4f74-4566-af16-55e34e899e43/" width="116"/></p>
 <p>Our dataset contains more males. Also, note that we have a Series as a result. If this was a multimodal distribution, we would get multiple modes (several rows).</p>
 <p>All the methods listed above can be also called from a <code class="language-python">pandas</code> DataFrame. In that case, they will return the summary statistics for every column in that DataFrame if it is possible. To count only the numeric columns, set the <code class="language-python">numeric_only</code> argument to "True".</p>
 <h5 id="dataframedescribe">DataFrame.describe</h5>
@@ -44,7 +44,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/mwaskom/seaborn-data/master/
 <p>You can pass <code class="language-python">'all'</code> to the <code class="language-python">include</code> argument in order to look at both numerical and categorical columns simultaneously:</p>
 <pre><code class="language-python">df.describe(include='all')</code></pre>
 <p>Output:<br/>
-<img alt="" src="https://ucarecdn.com/d6ee18bf-2100-45f8-953e-1e88adc2791c/"/></p>
+<img alt="" height="319" src="https://ucarecdn.com/d6ee18bf-2100-45f8-953e-1e88adc2791c/" width="624"/></p>
 <p>For categorical columns, <code class="language-python">describe()</code> generates the following metrics: </p>
 <ul>
 <li><code class="language-python">count</code> — overall number of entires (non-unique);</li>
@@ -58,4 +58,4 @@ df = pd.read_csv('https://raw.githubusercontent.com/mwaskom/seaborn-data/master/
 <ul>
 <li>find the central tendency measures with <code class="language-python">.mean()</code>, <code class="language-python">.median()</code>, <code class="language-python">.mode()</code></li>
 <li>print the statistics both for numerical and object columns with <code class="language-python">describe()</code>.</li>
-</ul></body></html>
+</ul>

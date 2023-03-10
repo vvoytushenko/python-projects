@@ -1,39 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="908ba00e-fb4e-48ac-a801-fdebfc12e320" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Simple Chatty Bot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural Network from Scratch/Neural Network from Scratch/Backpropagation with two layers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural Network from Scratch/Neural Network from Scratch/Train   visualize with two layers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Advanced system/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Advanced system/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Card anatomy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Card anatomy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/I'm so lite/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/I'm so lite/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Luhn algorithm/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Luhn algorithm/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/course-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Chatty Bot welcomes you/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Chatty Bot welcomes you/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Chatty Bot welcomes you/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Guess the age/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Guess the age/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Guess the age/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Learning numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Learning numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Learning numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Multiple choice/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Multiple choice/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Multiple choice/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Print your name/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Print your name/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Print your name/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/bot/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/test/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.Yaml.Migrate": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -2,9 +2,9 @@ type: choice
 is_multiple_choice: true
 options:
 - text: It doesn't support using multiple values for the index and columns parameter
-- text: It reshapes data from long to wide format
 - text: It reshapes data from wide to long format
 - text: It aggregates data by chosen parameter
+- text: It reshapes data from long to wide format
 files:
 - name: main.py
   visible: true

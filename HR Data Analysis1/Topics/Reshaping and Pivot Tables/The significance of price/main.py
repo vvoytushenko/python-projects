@@ -5,5 +5,4 @@ wine_sample = {'variety': {26762: 'Cabernet Sauvignon', 15006: 'Pinot Noir', 256
 df = pd.DataFrame(wine_sample)
 
 # your code here
-print(df = df.pivot_table(index='variety', columns=pd.cut(df.price, bins=[10, 20, 30, 40, 50]),
-                    values='points', aggfunc='mean')
+print(...)

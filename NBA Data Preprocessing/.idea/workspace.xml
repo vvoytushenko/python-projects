@@ -5,71 +5,161 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="891a41ff-9693-4a26-97d4-a412c995b416" name="Changes" comment="nba data preprocessing project commit">
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the birthplaces/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the birthplaces/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the birthplaces/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the dates/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the dates/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Correct the dates/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Data/Nobel_laureates.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Load the data/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Load the data/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Load the data/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a bar plot/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a bar plot/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a bar plot/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a box plot/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a box plot/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a box plot/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a pie chart/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a pie chart/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/Plot a pie chart/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/task/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/task/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/Nobel Laureates/task/test/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/course-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/course-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nobel Laureates/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Intra-group light component and galaxy morphology/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Intra-group light component and galaxy morphology/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Isolated galaxies and galaxies in groups/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Isolated galaxies and galaxies in groups/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Median projected separation/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Median projected separation/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/One-way analysis of variance/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/One-way analysis of variance/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/Prepare the data/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Properties of Compact Groups of Galaxies/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Array or not array/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Array or not array/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Array or not array/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Array or not array/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Importing the subpackages/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Importing the subpackages/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Importing the subpackages/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Importing the subpackages/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Integrate all the variables/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Integrate all the variables/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Integrate all the variables/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Integrate all the variables/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Schur decomposition/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Schur decomposition/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Schur decomposition/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Schur decomposition/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Theory/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/What submodule to use/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/What submodule to use/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/What submodule to use/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/What submodule to use/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/SciPy overview/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/Topics/section-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Properties of Compact Groups of Galaxies/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural Network from Scratch/Neural Network from Scratch/Backpropagation with two layers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural Network from Scratch/Neural Network from Scratch/Train   visualize with two layers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Advanced system/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Advanced system/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Card anatomy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Card anatomy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/I'm so lite/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/I'm so lite/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Luhn algorithm/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/Luhn algorithm/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/Simple Banking System (Python)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System (Python)/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Choose your path/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Choose your path/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Extensive training/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Extensive training/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Going big/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Going big/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/No one is left behind/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/No one is left behind/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Raising the bar/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Raising the bar/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Something special/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Something special/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Special knowledge/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/Special knowledge/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/University Admission Procedure (Python)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../University Admission Procedure (Python)/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Aggregate the data/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Aggregate the data/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Aggregate the data/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Aggregate the data/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Draw up pivot tables/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Draw up pivot tables/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Draw up pivot tables/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Draw up pivot tables/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Get the insights/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Get the insights/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Get the insights/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Get the insights/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Load the data and modify the indexes/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Load the data and modify the indexes/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Load the data and modify the indexes/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Load the data and modify the indexes/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Merge everything/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Merge everything/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Merge everything/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/HR Data Analysis/Merge everything/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/.loc/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/.loc/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/.loc/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/.loc/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Adelie locator/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Adelie locator/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Adelie locator/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Adelie locator/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Columns selection/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Columns selection/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Columns selection/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Columns selection/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Girl Power/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Girl Power/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Girl Power/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Girl Power/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Penguin selecting/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Penguin selecting/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Penguin selecting/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Penguin selecting/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Personal selection/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Personal selection/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Personal selection/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Personal selection/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Select one column/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Select one column/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Select one column/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Select one column/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/.loc   .iloc/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Accessing columns/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Accessing columns/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Back to normal/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Back to normal/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Clever index reseting/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Clever index reseting/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Force grades/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Force grades/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/New Indexing/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/New Indexing/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Renaming columns/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Renaming columns/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Set new index/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Set new index/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Accessing data in a DataFrame/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Absent values/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Absent values/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Left merge/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Left merge/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Music store/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Music store/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Right combination/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Right combination/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/School grades/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/School grades/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Which parameter/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Combining Data in Pandas/Which parameter/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Conditional selection/Bad hint/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Conditional selection/Bad hint/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Conditional selection/Heavy task/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Conditional selection/Heavy task/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Conditional selection/Personal selection/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Conditional selection/Personal selection/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Conditional selection/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Conditional selection/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Flipper competition/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Flipper competition/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Flipper competition/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Flipper competition/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Light as a Feather/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Light as a Feather/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Light as a Feather/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Light as a Feather/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Penguin count/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Penguin count/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Penguin count/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Penguin count/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Penguin species/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Penguin species/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Penguin species/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Penguin species/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/The best lap/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/The best lap/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/The best lap/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/The best lap/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Grouping and aggregating data in pandas/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Lambda functions order/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Lambda functions order/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Lamdba benefits/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Lamdba benefits/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Nested functions/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Nested functions/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Re-write using lambda functions/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Re-write using lambda functions/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Replace lambda with def/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Replace lambda with def/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Lambda functions/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Adding a new column/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Adding a new column/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Adding a new column/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Adding a new column/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Brand new row/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Brand new row/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Brand new row/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Brand new row/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Hello, newbie/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Hello, newbie/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Hello, newbie/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Hello, newbie/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Mean penguin bill/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Mean penguin bill/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Mean penguin bill/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Mean penguin bill/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Modifying a DataFrame/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Eurotrip/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Eurotrip/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Melt wine... what/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Melt wine... what/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Pivot Table/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Pivot Table/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Pivot Table/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Pivot Table/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Pivot Table/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Pivot Table/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/The significance of price/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/The significance of price/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/The significance of price/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/The significance of price/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/The significance of price/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/The significance of price/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Reshaping and Pivot Tables/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/Getting closer to real tasks/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/Getting closer to real tasks/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/Getting closer to real tasks/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/Getting closer to real tasks/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/Like SQL/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/Like SQL/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/Rename them all/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/Rename them all/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/What  Where/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Searching within a pandas DataFrame/What  Where/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting Data in Pandas/Attribute sorting/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting Data in Pandas/Attribute sorting/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting Data in Pandas/Double trouble/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting Data in Pandas/Double trouble/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting Data in Pandas/Peng-sort/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting Data in Pandas/Peng-sort/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting Data in Pandas/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting Data in Pandas/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Can’t sort my list/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Can’t sort my list/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Gaming task/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Gaming task/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Gaming task/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Gaming task/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Pass the password/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Pass the password/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Sort numbers by the remainder/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Sort numbers by the remainder/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Sort the flowers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Sort the flowers/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Sort the flowers/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Sort the flowers/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Sort the numbers/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Sort the numbers/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Unsortable/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Sorting a list/Unsortable/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Average grade/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Average grade/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Average grade/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Average grade/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Count a median/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Count a median/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Count a median/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Count a median/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Descriptive statistics/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Descriptive statistics/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Descriptive statistics/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Descriptive statistics/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Easy question/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Easy question/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Easy question/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Easy question/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Mean penguin/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Mean penguin/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Mean penguin/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Mean penguin/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/Topics/Summarizing numeric columns/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HR Data Analysis1/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HR Data Analysis1/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +190,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Edu.Yaml.Migrate": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
